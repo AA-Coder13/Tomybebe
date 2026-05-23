@@ -25,8 +25,8 @@ export default function MusicPlayer() {
 
   const playlist: Track[] = [
     {
-      title: 'Midnight Sparkles',
-      artist: 'Acoustic Synthesizer',
+      title: 'Palagi',
+      artist: 'TJ Monterde',
       duration: '01:45',
       // Dynamic lovely melodic scale notes (Frequencies multipliers of root 130.81Hz - C3)
       chordProgression: [
