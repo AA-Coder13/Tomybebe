@@ -8,7 +8,6 @@ import Gallery from './components/Gallery';
 import LoveLetter from './components/LoveLetter';
 import Timeline from './components/Timeline';
 import MusicPlayer from './components/MusicPlayer';
-import GreetingCards from './components/GreetingCards';
 
 export default function App() {
   const [scrollYProgress, setScrollYProgress] = useState(0);
