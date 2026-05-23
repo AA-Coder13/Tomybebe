@@ -6,41 +6,41 @@ export default function Timeline() {
   const events: TimelineEvent[] = [
     {
       id: 't-1',
-      title: 'First Meeting',
+      title: 'Morning Messages',
       date: 'February 12, 2023',
-      description: 'The day our paths crossed. It felt like a subtle shift in the alignment of the stars. In a crowded room, your laughter was the only frequency that resonated instantly in my heart. A simple "hello" that quietly unlocked the rest of my life.',
-      iconName: 'search',
+      description: 'May your day start with a slow and calm. you are appreciated bebe.',
+      iconName: 'heart',
       color: 'from-pink-500 to-rose-500',
     },
     {
       id: 't-2',
-      title: 'First Date',
+      title: 'A Little Daily Reminder',
       date: 'March 05, 2023',
-      description: 'Sharing warm vanilla latte cups as the world outside was just a blur of passing trains and spring drizzle. We started talking and completely lost track of time, only realizing six hours had evaporated in a heartbeat. I knew right then you were someone rare.',
-      iconName: 'coffee',
+      description: 'Just incase you need a shoulder to cry on. im always here for you bebe.',
+      iconName: 'heart',
       color: 'from-rose-500 to-orange-400',
     },
     {
       id: 't-3',
-      title: 'Favorite Memory',
+      title: 'Safest Harbor',
       date: 'August 19, 2023',
-      description: 'Lost in the magical summer countryside under a warm amber dome of fireworks. You turned to look at the sky, and all I could look at was you. The warm colors of the light reflecting on your cheeks was a portrait I have permanently memorized.',
+      description: 'When things get overwhelming and the noises of the world are too loud, remember that my arms are always your safe haven. No expectations, no pressure—just deep warmth.',
       iconName: 'heart',
       color: 'from-amber-400 to-rose-500',
     },
     {
       id: 't-4',
-      title: 'Adventures Together',
+      title: 'Sweetest Adventures',
       date: 'December 28, 2023',
-      description: 'Exploring cozy mountain villages, driving down long highways singing along to acoustic playlists, and discovering hidden city corners at midnight. Every coordinate on this map is a testament to how adventurous and warm life is with you.',
+      description: 'With you bebe. kahit saan tayo mag punta napaka saya ko.',
       iconName: 'compass',
       color: 'from-purple-500 to-pink-500',
     },
     {
       id: 't-5',
-      title: 'Future Dreams',
+      title: 'My Forever Promise',
       date: 'The Infinite Future',
-      description: 'A thousand more mornings sharing coffee, travel buckets waiting to be checked, cozy homes filled with plants and light, and growing older together. Every dream of my future is completely and utterly wrapped around your smile.',
+      description: 'I promise to respect your decision and always here to support you and hindi ako magsasawang intindihin ka.',
       iconName: 'stars',
       color: 'from-cyan-400 to-purple-500',
     },
@@ -79,7 +79,7 @@ export default function Timeline() {
         {/* Section Header */}
         <div className="text-center mb-24">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-rose-500/10 border border-rose-500/20 text-rose-300 text-xs tracking-widest font-mono uppercase mb-4">
-            <MessageCircleHeart className="h-3.5 w-3.5" /> Chronological Footprints
+            <MessageCircleHeart className="h-3.5 w-3.5" /> Greetings
           </div>
           <h2 className="text-4xl md:text-5xl font-serif text-white tracking-tight">
             Our Love <span className="font-handwritten text-rose-400 capitalize text-5xl md:text-6xl text-glow-rose font-medium ml-1">Timeline</span>
