@@ -3,9 +3,9 @@ import { motion, AnimatePresence } from 'motion/react';
 import { Heart, MapPin, Calendar, X, HeartHandshake } from 'lucide-react';
 import { GalleryItem } from '../types';
 
-import starryCouple from '../assets/images/couple_starry_night_1779502314410.png';
-import beachCouple from '../assets/images/couple_beach_sunset_1779502332944.png';
-import cafeCouple from '../assets/images/couple_cozy_cafe_1779502368759.png';
+import starryCouple from '../assets/images/1st_date.JPG';
+import beachCouple from '../assets/images/north_trip.jpg';
+import cafeCouple from '../assets/images/2nd_anniv.jpg';
 
 export default function Gallery() {
   // Setup nice hand-crafted memories
