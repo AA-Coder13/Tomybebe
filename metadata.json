@@ -1,0 +1,6 @@
+{
+  "name": "To My Bebe",
+  "description": "An extremely aesthetic, modern luxury romantic digital experience made for someone deeply loved, featuring a floating heart hero, polaroid gallery, music player, love timeline, and custom interactive greeting cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
