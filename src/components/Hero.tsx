@@ -70,7 +70,7 @@ export default function Hero({ onScrollToGallery }: HeroProps) {
           transition={{ delay: 1.4, duration: 1.5 }}
           className="mt-6 text-sm md:text-base text-rose-200/80 max-w-md font-sans tracking-widest font-light uppercase"
         >
-          A digital token for my favorite person.
+          For my favorite person.
         </motion.p>
       </div>
 
