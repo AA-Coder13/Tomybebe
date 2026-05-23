@@ -85,7 +85,6 @@ export default function Timeline() {
             Our Love <span className="font-handwritten text-rose-400 capitalize text-5xl md:text-6xl text-glow-rose font-medium ml-1">Timeline</span>
           </h2>
           <p className="mt-3 text-rose-300/60 max-w-md mx-auto text-sm font-sans tracking-wide font-light">
-            Tracing the memorable chapters of our beautiful journey, from an accidental hello to forever.
           </p>
         </div>
 
@@ -116,11 +115,6 @@ export default function Timeline() {
                       transition={{ duration: 0.8 }}
                       className="group p-6 md:p-8 rounded-2xl bg-glassmorphism border border-rose-500/10 hover:border-rose-500/25 shadow-[0_15px_35px_rgba(0,0,0,0.5)] hover:shadow-[0_20px_45px_rgba(244,63,94,0.12)] transition-all duration-500 flex flex-col"
                     >
-                      {/* Event timestamp and tag */}
-                      <div className="flex items-center gap-1.5 font-mono text-[11px] text-rose-400 tracking-wider uppercase mb-3">
-                        <Calendar className="h-3.5 w-3.5" />
-                        <span>{event.date}</span>
-                      </div>
 
                       {/* Event Title */}
                       <h3 className="text-xl md:text-2xl font-serif text-white hover:text-rose-300 transition-colors duration-300">
