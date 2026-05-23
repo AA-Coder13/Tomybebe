@@ -52,7 +52,6 @@ export default function App() {
         <LoveLetter />
         <Timeline />
         <MusicPlayer />
-        <GreetingCards />
       </div>
 
       {/* Extra-aesthetic cinematic visual footer */}
