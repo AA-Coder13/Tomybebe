@@ -82,7 +82,7 @@ export default function Timeline() {
             <MessageCircleHeart className="h-3.5 w-3.5" /> Greetings
           </div>
           <h2 className="text-4xl md:text-5xl font-serif text-white tracking-tight">
-            Our Love <span className="font-handwritten text-rose-400 capitalize text-5xl md:text-6xl text-glow-rose font-medium ml-1">Timeline</span>
+            Sweet Messages <span className="font-handwritten text-rose-400 capitalize text-5xl md:text-6xl text-glow-rose font-medium ml-1">For You</span>
           </h2>
           <p className="mt-3 text-rose-300/60 max-w-md mx-auto text-sm font-sans tracking-wide font-light">
           </p>
