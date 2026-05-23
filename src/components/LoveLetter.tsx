@@ -10,16 +10,18 @@ export default function LoveLetter() {
 
   const fullLetter = `My dearest Bebe,
 
-From the moment you entered my life, the ordinary became extraordinary. Every day is a silent symphony, and every minor detail of you is my favorite story. Today, I wanted to write down a permanent token of what you mean to me.
+I want you to know na mahal na mahal kita. every day pag gising ko palang ikaw agad ang una kong naiisip.
 
-You are my quiet harbor when the tides are rough, my warm coffee on a freezing winter morning, and the soft golden light that illuminates everything. I love our long random nights talking about things that do not matter, and the comfortable silences where we do not need to speak at all. 
+Masaya ako pag nakikita kitang masaya sa mga achivement mo sa buhay. palagi lang ako nandito para suportahan ka sa lahat ng bagay.
 
-Thank you for your warmth, your kind soul, and the laughter you freely scatter into my days. You are my home, my anchor, and my favorite adventure. 
+Hindi ako mag sasawa intindihin ka kahit minsan or madalas mo ako sinusungitan hehe.
 
-No matter where the future takes us, I want you to remember this: every single universe in which we could exist, I would still search for you.
+you are my everything, im grateful i have you in my life.
+
+I love you so much!
 
 Forever & always Yours,
-Me ❤️`;
+Arnold ❤️`;
 
   // Typing effect logic
   useEffect(() => {
@@ -142,9 +144,9 @@ Me ❤️`;
 
                   {/* Letter Content Header */}
                   <div className="relative z-10 flex items-center justify-between pb-3 border-b border-rose-500/10 font-mono text-xs uppercase text-rose-300/40 tracking-widest">
-                    <span>FROM: YOUR_BEAR</span>
+                    <span>FROM: YOUR EGG HEAD</span>
                     <span className="text-rose-500 heartbeat-slow font-sans text-lg">❤️</span>
-                    <span>TO: MY_BEBE</span>
+                    <span>TO: MY BEBE</span>
                   </div>
 
                   {/* Typing content panel */}
