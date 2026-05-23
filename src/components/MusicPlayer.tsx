@@ -252,7 +252,6 @@ export default function MusicPlayer() {
             Our Melody <span className="font-handwritten text-rose-400 capitalize text-5xl md:text-6xl text-glow-rose font-medium ml-1">Player</span>
           </h2>
           <p className="mt-3 text-rose-300/60 max-w-md mx-auto text-sm font-sans tracking-wide font-light">
-            A beautiful high-end vinyl engine that synthesizes raw acoustic chords in real time to capture our frequency.
           </p>
         </div>
 
